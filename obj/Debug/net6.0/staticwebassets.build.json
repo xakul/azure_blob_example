@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z8Em0T+dTqLEDFm0ZlJB+0mI25xV3TVYLoahDIHqhp0=",
+  "Source": "AzureBlobExample",
+  "BasePath": "_content/AzureBlobExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
